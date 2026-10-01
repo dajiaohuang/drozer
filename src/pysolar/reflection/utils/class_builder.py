@@ -84,4 +84,3 @@ class ClassBuilder(object):
         """
 
         return fs.read(self.path)
-        
