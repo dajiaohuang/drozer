@@ -398,4 +398,3 @@ class ReflectedString(ReflectedType):
     def __str__(self):
         return self._native
         #return self._native.encode('utf-8')
-        
